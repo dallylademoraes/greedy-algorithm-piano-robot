@@ -1,8 +1,3 @@
-Aqui está o conteúdo completo e limpo para o seu arquivo `README.md`, com base no texto que você forneceu. Todo o conteúdo de conversa foi removido, e a formatação (como blocos de código e tabelas) foi corrigida.
-
-Você pode copiar e colar diretamente este bloco.
-
-````markdown
 # 🎹 Piano Robótico — Método Guloso
 
 Sistema didático que simula a execução pianística automática de um robô utilizando o **método guloso** como estratégia de decisão.
@@ -34,10 +29,10 @@ Abaixo estão **todas as instruções detalhadas** para configurar e executar o 
 
 Abra o **PowerShell** ou **Prompt de Comando** e execute:
 
-```bash
+
 git clone [https://github.com/dallylademoraes/greedy-algorithm-piano-robot.git](https://github.com/dallylademoraes/greedy-algorithm-piano-robot.git)
 cd greedy-algorithm-piano-robot
-````
+
 
 Isso cria uma cópia do projeto na sua máquina e entra na pasta do projeto.
 
