@@ -190,7 +190,7 @@ greedy-algorithm-piano-robot/
 
 Universidade Federal do Tocantins (UFT)
 
-  * 📘 **Disciplina:** Projeto e Implementação de Algoritmos
+  * 📘 **Disciplina:** Projeto e Análise de Algoritmos
   * 📅 **Ano:** 2025
   * 🔗 **GitHub:** [@dallylademoraes](https://www.google.com/search?q=https://github.com/dallylademoraes)
 
