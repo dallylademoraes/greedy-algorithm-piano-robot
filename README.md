@@ -208,5 +208,3 @@ Este projeto é de uso acadêmico e educativo, sob licença MIT.
 
 Sinta-se livre para estudar, modificar e aprimorar o código com fins didáticos.
 
-```
-```
